@@ -1,0 +1,12 @@
+{
+  "name": "ecodebook",
+  "displayName": "ecodebook",
+  "expo": {
+    "name": "ecodebook",
+    "slug": "ecodebook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
